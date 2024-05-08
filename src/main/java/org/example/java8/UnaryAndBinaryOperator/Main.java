@@ -21,5 +21,6 @@ public class Main {
         BinaryOperator<String> binaryOperator = (x,y)->x+" "+y;
         System.out.println(binaryOperator.apply("Shyam","Sahu"));
         // BinaryOperator is special case of BiFunction
+        //Added into GitHub
     }
 }
